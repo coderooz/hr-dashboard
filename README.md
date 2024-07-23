@@ -1,6 +1,6 @@
 # HR Dashboard () - Power BI Projet
 
-![Dashboard](data/HR Dashboard_page.jpg)
+![Dashboard](https://github.com/coderooz/hr-dashboard/blob/main/data/HR%20Dashboard_page.jpg)
 
 The goal of this project is to create a **power bi** dashboard to showcase the attrition data within the company.
 
@@ -14,7 +14,7 @@ The goal of this project is to create a **power bi** dashboard to showcase the a
  - **Youtube** - [Power BI Project End to End | Dashboard| Beginners | Complete Project - 2023](https://www.youtube.com/watch?v=j4xlVLgsmNQs) by [Rishab Mistra](https://www.youtube.com/@RishabhMishraOfficial)
 
 ## LICENCE
-This project is licenced under **MIT**. For more info check out the [LICENCE](LICENCE)
+This project is licenced under **MIT**. For more info check out the [LICENCE](https://github.com/coderooz/hr-dashboard/blob/main/LICENSE).
 
-## Author
- The author of the project is Ranit Saha a.k.a Coderooz(https://github.com/coderooz)
+## Creator
+ The creator of the project is Ranit Saha a.k.a [Coderooz](https://github.com/coderooz).
