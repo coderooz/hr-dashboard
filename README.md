@@ -5,7 +5,7 @@
 The goal of this project is to create a **power bi** dashboard to showcase the attrition data within the company.
 
 ## Requirements:
- - [**Company Data**](https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og): Also avainlable in the repository.
+ - [**Company Data**](https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og): Also available in the repository.
  - [**Power BI**](https://www.microsoft.com/en-us/download/details.aspx?id=58494): For making the dashboard.
  - **Excel** (optional): To prepare & processes the data to analyze and eleminate a error and discrepencies in the data.
 
